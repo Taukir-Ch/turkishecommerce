@@ -1,0 +1,12 @@
+node_modules
+yarn.lock
+*.zip
+HTML-preview
+HTML-tf
+assets/sass
+        README.md
+        gulpfile.js
+        package-lock.json
+package.json
+ .eslintrc
+        .gitignore
